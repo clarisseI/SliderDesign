@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/SliderDesign/static/css/main.d38e57e2.css",
+    "main.js": "/SliderDesign/static/js/main.836f27fb.js",
+    "static/js/787.0eca2aa0.chunk.js": "/SliderDesign/static/js/787.0eca2aa0.chunk.js",
+    "static/media/Warm.png": "/SliderDesign/static/media/Warm.d1acd6ca8a6b2a940b7c.png",
+    "static/media/Hapa.png": "/SliderDesign/static/media/Hapa.cedb355961a11e50ca73.png",
+    "static/media/Gaga.png": "/SliderDesign/static/media/Gaga.fdad06f8fa490e8f0a86.png",
+    "static/media/Derbie.png": "/SliderDesign/static/media/Derbie.c3f0e6cc1170a7f96cca.png",
+    "static/media/fleura.png": "/SliderDesign/static/media/fleura.776e22223b119628b40e.png",
+    "index.html": "/SliderDesign/index.html",
+    "main.d38e57e2.css.map": "/SliderDesign/static/css/main.d38e57e2.css.map",
+    "main.836f27fb.js.map": "/SliderDesign/static/js/main.836f27fb.js.map",
+    "787.0eca2aa0.chunk.js.map": "/SliderDesign/static/js/787.0eca2aa0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d38e57e2.css",
+    "static/js/main.836f27fb.js"
+  ]
+}
