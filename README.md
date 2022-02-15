@@ -1,4 +1,4 @@
-## UzuriDesign
+## Slider Design
 
 An Image Slider Carousel With React js | React Swiper JS 
 
