@@ -3,8 +3,10 @@
 
 
 
-An Image Slider Carousel With React js | React Swiper JS 
-![clarissei github io_SliderDesign_ (1)](https://user-images.githubusercontent.com/37862639/155647163-9e709193-48a0-4205-a654-48793368ee2f.png)
+A simple Image Slider Carousel With React js | React Swiper JS 
+
+
+![clarissei github io_SliderDesign_ (1)](https://user-images.githubusercontent.com/37862639/155647163-9e709193-48a0-4205-a654-48793368ee2f.png) `200px`
 
 
 
