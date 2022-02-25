@@ -21,6 +21,6 @@ Open http://localhost:3000 to view it in the browser.
 
 ## Check out the webpage
 
-link: 
+link:  https://clarissei.github.io/SliderDesign/
 
 
