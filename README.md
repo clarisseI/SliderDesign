@@ -7,6 +7,7 @@ An Image Slider Carousel With React js | React Swiper JS
 
 ![clarissei github io_SliderDesign_](https://user-images.githubusercontent.com/37862639/155646694-5adaf28a-fa40-44c4-ae55-46be2ae4681a.png)
 
+
 ## Getting Started with the project:
 
 ### npm i
@@ -17,18 +18,9 @@ install node modules
 Runs the app in the development mode.
 Open http://localhost:3000 to view it in the browser.
 
-The page will reload if you make edits.
-You will also see any lint errors in the console.
 
-### npm test
-Launches the test runner in the interactive watch mode.
-See the section about running tests for more information.
+## Check out the webpage
 
-### npm run build
-Builds the app for production to the build folder.
-It correctly bundles React in production mode and optimizes the build for the best performance.
+link: 
 
-The build is minified and the filenames include the hashes.
-Your app is ready to be deployed!
 
-See the section about deployment for more information.
